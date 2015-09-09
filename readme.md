@@ -35,6 +35,12 @@ Then, create a Mandrill Webhook that is triggered when
 
 And set the 'Post To Url' field to `<base-url>/mandrill`.
 
+## Deploy to Heroku
+
+```shell
+$ git push heroku master
+```
+
 ## License
 
 MIT
