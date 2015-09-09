@@ -1,6 +1,7 @@
-# slack-hooks
+# slack-hooks [![Build status](https://circleci.com/gh/IONISx/slack-hooks.svg?style=svg)](https://circleci.com/gh/IONISx/slack-hooks)
 
-[![Build status](https://circleci.com/gh/IONISx/slack-hooks.svg?style=svg)](https://circleci.com/gh/IONISx/slack-hooks)
+[![Dependency Status](https://david-dm.org/IONISx/slack-hooks.svg)](https://david-dm.org/IONISx/slack-hooks)
+[![devDependency Status](https://david-dm.org/IONISx/slack-hooks/dev-status.svg)](https://david-dm.org/IONISx/slack-hooks#info=devDependencies)
 
 > Simple HTTP API that proxies Webhooks for Slack.
 
