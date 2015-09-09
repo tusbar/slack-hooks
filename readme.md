@@ -1,5 +1,7 @@
 # slack-hooks
 
+[![Build status](https://circleci.com/gh/IONISx/slack-hooks.svg?style=svg)](https://circleci.com/gh/IONISx/slack-hooks)
+
 > Simple HTTP API that proxies Webhooks for Slack.
 
 ## Description
