@@ -30,7 +30,7 @@ Then, create a Mandrill Webhook that is triggered when
 * Message is Rejected
 * Message is Soft-Bounced
 
-And set the 'Post To Url' field to `'<base-url>/mandrill'`.
+And set the 'Post To Url' field to `<base-url>/mandrill`.
 
 ## License
 
