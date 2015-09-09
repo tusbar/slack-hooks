@@ -1,7 +1,7 @@
 {
   "name": "slack-hooks",
   "version": "1.0.0",
-  "description": "IONISx Slack Hooks",
+  "description": "Simple HTTP API that proxies Webhooks for Slack",
   "main": "index.js",
   "scripts": {
     "test": "grunt test"
