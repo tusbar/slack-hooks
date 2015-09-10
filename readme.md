@@ -41,6 +41,18 @@ And set the 'Post To Url' field to `<base-url>/mandrill`.
 $ git push heroku master
 ```
 
-## License
+## Development
 
-MIT
+Feel free to contribute :)
+
+```
+    ╚⊙ ⊙╝
+  ╚═(███)═╝
+ ╚═(███)═╝
+╚═(███)═╝
+ ╚═(███)═╝
+  ╚═(███)═╝
+   ╚═(███)═╝
+```
+
+![MIT](https://img.shields.io/badge/licence-MIT-blue.svg)
