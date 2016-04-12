@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/IONISx/slack-hooks#readme",
   "dependencies": {
-    "bluebird": "2.10.0",
+    "bluebird": "3.3.5",
     "body-parser": "1.13.3",
     "express": "4.13.3",
     "request-promise": "0.4.3"
