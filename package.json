@@ -25,7 +25,7 @@
     "bluebird": "3.3.5",
     "body-parser": "1.13.3",
     "express": "4.13.3",
-    "request-promise": "0.4.3"
+    "request-promise": "3.0.0"
   },
   "devDependencies": {
     "grunt": "1.0.1",
