@@ -34,6 +34,10 @@
   "devDependencies": {
     "xo": "^0.18.2"
   },
+  "engines": {
+    "node": ">=8",
+    "yarn": ">=1"
+  },
   "xo": {
     "semicolon": false,
     "space": 2
