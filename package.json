@@ -1,39 +1,41 @@
 {
   "name": "slack-hooks",
   "version": "1.0.0",
+  "private": true,
   "description": "Simple HTTP API that proxies Webhooks for Slack",
   "main": "index.js",
   "scripts": {
-    "test": "grunt test"
+    "start": "node index.js",
+    "test": "xo"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IONISx/slack-hooks.git"
+    "url": "git+https://github.com/tusbar/slack-hooks.git"
   },
   "keywords": [
     "slack",
-    "ionisx",
     "hooks"
   ],
-  "author": "IONISx",
+  "author": {
+    "name": "Bertrand Marron",
+    "url": "https://github.com/tusbar"
+  },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/IONISx/slack-hooks/issues"
+    "url": "https://github.com/tusbar/slack-hooks/issues"
   },
-  "homepage": "https://github.com/IONISx/slack-hooks#readme",
+  "homepage": "https://github.com/tusbar/slack-hooks#readme",
   "dependencies": {
-    "bluebird": "3.4.1",
-    "body-parser": "1.15.2",
-    "express": "4.14.0",
-    "request-promise": "4.1.1"
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
   },
   "devDependencies": {
-    "grunt": "1.0.1",
-    "grunt-contrib-jshint": "0.11.3",
-    "grunt-jscs": "3.0.1",
-    "grunt-mocha-test": "0.12.7",
-    "load-grunt-tasks": "3.5.2",
-    "mocha": "3.0.2",
-    "time-grunt": "1.4.0"
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": 2
   }
 }

@@ -1,10 +1,10 @@
-var app = require('./lib/app');
+const app = require('./lib/app')
 
 // ## //
 
-var port = process.env.PORT || 3000;
-var host = process.env.HOST || '0.0.0.0';
+const port = process.env.PORT || 3000
+const host = process.env.HOST || '0.0.0.0'
 
-app.listen(port, host, function () {
-    console.log('slack-hooks: listening on %s:%s', host, port);
-});
+app.listen(port, host, () => {
+  console.log('slack-hooks: listening on %s:%s', host, port)
+})
