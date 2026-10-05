@@ -1,5 +1,7 @@
 # slack-hooks [![Build status](https://circleci.com/gh/tusbar/slack-hooks.svg?style=svg)](https://circleci.com/gh/tusbar/slack-hooks)
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/tusbar/slack-hooks)
+
 [![Dependency Status](https://david-dm.org/tusbar/slack-hooks.svg)](https://david-dm.org/tusbar/slack-hooks)
 [![devDependency Status](https://david-dm.org/tusbar/slack-hooks/dev-status.svg)](https://david-dm.org/tusbar/slack-hooks#info=devDependencies)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
